@@ -6,7 +6,7 @@
 
 3. Use git to clone this repository: open a command prompt and run:
 ```
-git clone git@github.com:mickp/cockpit-windows-installation.git
+git clone git://github.com/mickp/cockpit-windows-installation.git
 ```
 
 4. Run ```setup.bat``` with elevated privileges (right click and choose 'Run as administrator').
