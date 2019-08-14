@@ -5,8 +5,8 @@ SETLOCAL
 set CALLPATH=%cd%
 
 : Code repositories
-set M_GIT=git@github.com:MicronOxford/microscope.git
-set C_GIT=git@github.com:MicronOxford/cockpit.git
+set M_GIT=git://github.com/MicronOxford/microscope.git
+set C_GIT=git://github.com/MicronOxford/cockpit.git
 
 : Destination folder name
 set DEST_FOLDER=MicronOxford 
